@@ -1,0 +1,6 @@
+code_event,event_name,date,place,capacity,cost,sales
+f01,football,5/10/2021,london,1976,600,17
+c01,concert,5/15/2021,Turkey,452,1200,31
+s01,seminar,5/20/2021,Tehran,243,100,7
+c02,Concert Classic,6/8/2021,Dubai,619,500,1
+m01,meeting education,8/12/2021,Berlin,246,400,4
