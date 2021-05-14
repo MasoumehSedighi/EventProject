@@ -1,0 +1,11 @@
+2021-05-12 19:54:01,565 - user log - INFO - the User with name:bahar has been logged in
+2021-05-12 19:54:45,751 - user log - INFO - the User with name:bahar log out
+2021-05-14 19:06:22,100 - user log - INFO - the User with name:roya has been registered
+2021-05-14 19:07:24,455 - user log - INFO - the User with name:Admin has been logged in
+2021-05-14 19:10:31,780 - user log - INFO - the User with name:roya has been logged in
+2021-05-14 19:13:09,783 - user log - INFO - the User with name:roya has been logged in
+2021-05-14 19:14:18,636 - user log - INFO - the User with name:roya log out
+2021-05-14 19:15:32,701 - user log - INFO - the User with name:Admin has been logged in
+2021-05-14 19:16:06,312 - user log - INFO - the User with name:Admin has been logged in
+2021-05-14 19:16:34,926 - user log - INFO - the User with name:Admin has been logged in
+2021-05-14 19:17:17,825 - user log - INFO - the User with name:Admin log out
